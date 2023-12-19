@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Priyatham
+@author: Prudhvi
 """
 #AI for Self Driving Cars
 
